@@ -2,6 +2,7 @@
 Turn plain text into paste-ready formatted pages for WeChat Official Accounts. 6 beautifully designed styles including Notion minimal, glassmorphism, soft reading, and more. Copy the HTML, paste it into the source mode of the WeChat editor, and publish — no coding needed. Supports AI-powered auto-formatting. Zero learning curve, done in seconds.
 
 
+
 # 🎨 公众号排版 AI 技能包
 ## 怎么用
 
